@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%A6%81%E5%BC%80%E5%BF%83%EF%BC%8C%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%A6%81%E5%BF%AB%E4%B9%90%E5%91%80%EF%BC%81" alt="Typing SVG" /></a>
+
 <div align="center">
     <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=wuyq54517&theme=vue" />
 </div>
