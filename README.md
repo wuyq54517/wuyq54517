@@ -11,6 +11,12 @@
     <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=wuyq54517&theme=vue" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ### 🤗 Hi~
 - 🎈 兴趣使然的技术爱好者
 - ✨ 理想是制作大众喜爱的产品
@@ -30,7 +36,7 @@
 
 
 
-    
+​    
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=wuyq54517" />
 </div>
@@ -41,4 +47,4 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=wuyq54517&theme=tokyo-night" />
 </div>
 
- 
+
