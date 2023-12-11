@@ -12,8 +12,7 @@
 
 #### 🛠️Technology Stack
   
-
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=wuyq54517&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=wuyq54517" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc.svg?logo=typescript&logoColor=white&style=flat-square)
