@@ -1,5 +1,7 @@
 
-<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=wuyq54517&theme=vue" />
+<div align="center">
+    <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=wuyq54517&theme=vue" />
+</div>
 
 ### 🤗 Hi~
 - 🎈 兴趣使然的技术爱好者
@@ -16,5 +18,8 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=wuyq54517" />
 </div>
 
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+</div>
 
  
