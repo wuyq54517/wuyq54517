@@ -18,8 +18,10 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=wuyq54517" />
 </div>
 
+
+
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=wuyq54517&theme=minimal" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wuyq55417&theme=tokyo-night" />
 </div>
 
  
