@@ -1,6 +1,7 @@
 ### 🎮我的小站
 
-1. [AI chatgpt小站](https://ai.123417.xyz/)
+1. [AI chatgpt小站](https://ai.123417.xyz/)**公益AI chatgpt小站**
+2. [公益图床](https://image.123417.xyz/)**公益图床**
 <div align="center">
    <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%A6%81%E5%BC%80%E5%BF%83%EF%BC%8C%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%A6%81%E5%BF%AB%E4%B9%90%E5%91%80%EF%BC%81" alt="Typing SVG" />
