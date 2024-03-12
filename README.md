@@ -17,7 +17,6 @@
 - ✨ 理想是制作大众喜爱的产品
 - 🎮 一个玩的还不错的竞技游戏玩家
 - 🤔 Just do what you want
-- 📭 wuyq54517@gmail.com
 
 
 ![亮色](https://raw.githubusercontent.com/wuyq54517/wuyq54517/output/github-contribution-grid-snake.svg)
